@@ -17,7 +17,7 @@
 
   if (array_key_exists("submit", $_POST)) {
 
-    $link = mysqli_connect ("localhost","ady","","visitnepal");
+    $link = mysqli_connect ("localhost","root","","tourism");
 
    if (mysqli_connect_error()) {
      die("Connection Unsuccessful");
@@ -50,6 +50,7 @@
 							$_SESSION['id'] = $row['id'];
 
 								if ( $_POST["loggedIn"] == '1') {
+                  
 
 									setcookie("id", mysqli_insert_id($link), time()+60*60*24*364);
 								}

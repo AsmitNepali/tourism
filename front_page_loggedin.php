@@ -39,7 +39,7 @@
     </nav>
       <div class="clear">
       <div class="second_tab">
-        <img class="flag_img" src="flag_of_nepal.png" alt="Check your connection">
+        <img class="flag_img" src="public/img/flag_of_nepal.png" alt="Check your connection">
         <p class="typewriter" style="margin-top:300px;">EXPERIENCE OF A LIFETIME!!!</P>
       </div>
     </div>

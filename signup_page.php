@@ -1,4 +1,6 @@
 <?php
+
+
   session_start();
   $error = "";
 
@@ -16,7 +18,8 @@
 
   if (array_key_exists("submit", $_POST)) {
 
-    $link = mysqli_connect ("localhost","ady","","visitnepal");
+    $link = mysqli_connect ("localhost","root","","tourism");
+    $fname=$_POST['fname'];
 
    if (mysqli_connect_error()) {
      die("Connection Unsuccessful");
@@ -77,6 +80,7 @@
 
               if ( $_POST["loggedIn"] == '1') {
   							setcookie ("id",mysqli_insert_id($link),time()+60*60*24*364);
+                
               }
 
   						header("Location: front_page_loggedin.php");
@@ -98,7 +102,7 @@
 </head>
 
 <body>
-]<div class="container">
+<div class="container">
 	<h1>Sign Up</h1>
 
   <div><?php if($error!="") {
@@ -106,7 +110,7 @@
 			}?>
 </div>
 
-<form method="post">
+<form method="post" action=''>
 
   <p><strong>To know more about Nepal just sign up</strong></p>
 
@@ -123,11 +127,11 @@
 	</fieldset>
 
   <fieldset class="form-group">
-   <input class="form-control" type="text" name="pnumber" placeholder="Phone Number">
+   <input class="form-control" type="number" name="pnumber" placeholder="Phone Number">
   </fieldset>
 
   <fieldset class="form-group">
-   <input class="form-control" type="country" name="country" placeholder="country">
+   <input class="form-control" type="text" name="country" placeholder="country">
   </fieldset>
 
   <fieldset class="form-group">

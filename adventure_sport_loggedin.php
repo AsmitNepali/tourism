@@ -168,7 +168,7 @@
      <div class="kathmandu">
          <h3 style="text-align:center">CANYONING</h3>
          <div class="ktm_valley1">
-           <img src="public/img/ADsprt/Canyoning.jpg" alt="Mt.Everest" style="width:80%; height:70%;" class="image1">
+           <img src="public/img/ADsprt/canyoning.jpg" alt="Mt.Everest" style="width:80%; height:70%;" class="image1">
 
            <p>If lowering yourself backwards off a waterfall and sliding down natural water slides sounds like fun, then Nepal is a good place to be. Season dependent (with the strongest flow immediately after the monsoon and the lowest immediately before), guided canyoning trips can be arranged around Jalberi, about half-way between Kathmandu and Pokhara and on the Bhote Kosi River, northeast of Kathmandu.
  </p>

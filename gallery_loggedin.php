@@ -42,15 +42,15 @@
 <div class="page">
     <div class="kathamndu">
     <h2>Kathmandu</h2>
-    <img src="public/img/destination/Kathmandu_valley/bauddha-sb-lt.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="public/img/destination/Kathmandu_valley/bhaktapur.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="public/img/destination/Kathmandu_valley/Kathmandu.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="public/img/destination/Kathmandu_valley/kathmandu1.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="public/img/destination/Kathmandu_valley/nepal-kathmandu-city-view.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="public/img/destination/Kathmandu_valley/patan.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="public/img/destination/Kathmandu_valley/swayambhu-leisure-1.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="public/img/destination/Kathmandu_valley/pashupatinath-sm-pilgrims.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="public/img/destination/Kathmandu_valley/tihar_kathmandu.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/kathmandu_valley/bauddha-sb-lt.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/kathmandu_valley/bhaktapur.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/kathmandu_valley/Kathmandu.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/kathmandu_valley/kathmandu1.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/kathmandu_valley/nepal-kathmandu-city-view.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/kathmandu_valley/patan.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/kathmandu_valley/swayambhu-leisure-1.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/kathmandu_valley/pashupatinath-sm-pilgrims.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/kathmandu_valley/tihar_kathmandu.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
   </div>
 
   <div class="city">

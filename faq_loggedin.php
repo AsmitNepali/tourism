@@ -7,7 +7,41 @@
     $_SESSION["id"] = $_COOKIE["id"];
 
   }
+  $servername='localhost';
+  $username='root';
+  $password='';
+  $dbname = "tourism";
+  $conn=mysqli_connect($servername,$username,$password,"$dbname");
+  if(!$conn){
+    die('Could not Connect My Sql:' .mysql_error());
+  }
 
+  if(isset($_POST['post']))
+{	 
+  if (!$_POST["txtarea"]) {
+    $error .="write something to post<br>";
+  }
+
+  if($error !="") {
+    $error = "Opps!<br>".$error;
+  }
+  else{
+	 $txt_area_value = $_POST['txtarea'];
+   $posted_date=date('Y-m-d');
+   $postedby=$SESSION['username'];
+   
+	 $sql = "INSERT INTO faq (txtarea,posted_at,posted_by)
+	 VALUES ('$txt_area_value','$posted_date','$postedby')";
+
+	 if (mysqli_query($conn, $sql)) {
+		echo "Posted successfully !";
+	 } else {
+		echo "Error: " . $sql . "
+" . mysqli_error($conn);
+	 }
+	 mysqli_close($conn);
+  }
+}
 ?>
 
 
@@ -63,10 +97,7 @@
     color:white;
   }
 
-  .login_page {
-    color: #f2f2f2;
-    margin-left:700px;
-  }
+ 
 
   .page{
     background-color: #A4A4A4;
@@ -154,6 +185,14 @@
     padding:3px;
   }
 
+  .login_page {
+    color: #f2f2f2;
+    right: 0;
+    }
+
+    .purple-border textarea {
+    border: 1px solid #ba68c8;
+}
 
   </style>
 </head>
@@ -164,15 +203,15 @@
   <header>
     <nav>
       <div class="first_tab">
-          <ul>
-            <li><a  href="front_page.php">Home</a></li>
-            <li><a  href="destination.php">Destination</a></li>
-            <li><a  href="adventure_sport.php">Adventure Sports</a></li>
-            <li><a  href="festival.php">Festivals</a></li>
-            <li><a  href="gallery.php">Gallery</a></li>
-            <li><a  href="faq.php">FAQ</a></li>
-            <li><a class="login_page" href="login_page.php?logout=1">log out</a></li>
-          </ul>
+      <ul>
+          <li><a  href="front_page_loggedin.php">Home</a></li>
+          <li><a  href="destination_loggedin.php">Destination</a></li>
+          <li><a  href="adventure_sport_loggedin.php">Adventure Sports</a></li>
+          <li><a  href="festival_loggedin.php">Festivals</a></li>
+          <li><a  href="gallery_loggedin.php">Gallery</a></li>
+          <li><a  href="faq_loggedin.php">FAQ</a></li>
+          <li><a class="login_page" href="login_page.php?logout=1">log out</a></li>
+        </ul>
         </div>
     </nav>
   </header>
@@ -181,12 +220,13 @@
 <div class="page">
   <div class="comment_section">
     <h2>If any queires you may ask any question</h2>
-    <div class="row">
-      <div class="col-md-12">
-        <textarea class="form-control" placeholder="Add Question" rows="3" cols="80"></textarea><br>
-        <button class="btn btn-primary" style="float: right;">POST</button>
-      </div>
+    <form method="post" action=""> 
+    <div class="form-group purple-border">
+      <textarea class="form-control" rows="3" name="txtarea"></textarea>
+      <!-- <button type="button" class="btn btn-success pull-right">Post</button> -->
+      <input class="btn btn-success" type="submit" name="post" value="POST">
     </div>
+    
 
     <div class="row">
       <div class="col-md-12">

@@ -175,7 +175,7 @@
             <li><a  href="festival.php">Festivals</a></li>
             <li><a  href="gallery.php">Gallery</a></li>
             <li><a  href="faq.php">FAQ</a></li>
-            <li><a class="login_page" href="login_page.php">Login</a></li>
+            <li><a  href="login_page.php">Login</a></li>
           </ul>
         </div>
     </nav>
