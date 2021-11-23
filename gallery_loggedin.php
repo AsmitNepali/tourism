@@ -13,9 +13,9 @@
 <html>
 <head>
   <title>nepalvisit</title>
-  <link rel="stylesheet" href="gallery.css">
+  <link rel="stylesheet" href="public/css/gallery.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="public/css/animate.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
@@ -42,86 +42,86 @@
 <div class="page">
     <div class="kathamndu">
     <h2>Kathmandu</h2>
-    <img src="destination/Kathmandu_valley/bauddha-sb-lt.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Kathmandu_valley/bhaktapur.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Kathmandu_valley/Kathmandu.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Kathmandu_valley/kathmandu1.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Kathmandu_valley/nepal-kathmandu-city-view.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Kathmandu_valley/patan.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Kathmandu_valley/swayambhu-leisure-1.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Kathmandu_valley/pashupatinath-sm-pilgrims.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Kathmandu_valley/tihar_kathmandu.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Kathmandu_valley/bauddha-sb-lt.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Kathmandu_valley/bhaktapur.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Kathmandu_valley/Kathmandu.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Kathmandu_valley/kathmandu1.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Kathmandu_valley/nepal-kathmandu-city-view.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Kathmandu_valley/patan.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Kathmandu_valley/swayambhu-leisure-1.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Kathmandu_valley/pashupatinath-sm-pilgrims.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Kathmandu_valley/tihar_kathmandu.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
   </div>
 
   <div class="city">
     <h2>Pokhara</h2>
-    <img src="destination/Pokhara/pkr-ss-leisure.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Pokhara/pokhara zipline.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Pokhara/pokhara1.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Pokhara/pokhara2.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Pokhara/pokhara3.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Pokhara/pokhara4.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Pokhara/pokhara5.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Pokhara/flyingplane.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Pokhara/pkr-ss-leisure.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Pokhara/pokhara zipline.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Pokhara/pokhara1.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Pokhara/pokhara2.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Pokhara/pokhara3.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Pokhara/pokhara4.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Pokhara/pokhara5.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Pokhara/flyingplane.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
   </div>
 
   <div class="city">
     <h2>Lumbini</h2>
-    <img src="destination/Lumbini/lumbini.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Lumbini/lumbini123.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Lumbini/lumbini.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Lumbini/lumbini123.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
   </div>
 
   <div class="city">
     <h2>Illam</h2>
-    <img src="destination/Illam/ilam-csk-lt.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Illam/illam.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Illam/illamA.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Illam/illam-B.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Illam/ilam-csk-lt.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Illam/illam.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Illam/illamA.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Illam/illam-B.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
   </div>
 
 
   <div class="city">
     <h2>Langtang</h2>
-    <img src="destination/Langtang/langtang1_ght.jpg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Langtang/langtang7.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Langtang/langtang3.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Langtang/langtang8.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Langtang/langtangnp.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Langtang/langtang1_ght.jpg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Langtang/langtang7.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Langtang/langtang3.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Langtang/langtang8.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Langtang/langtangnp.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
   </div>
 
 
   <div class="city">
     <h2>Manang</h2>
-    <img src="destination/MustangManang/manang.jpg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/MustangManang/mustang_31566978182098.png" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/MustangManang/Mustang-Nepal.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/MustangManang/mustang-wvp-adventure.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/MustangManang/Upper-Mustang-Trek-Nepal.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/MustangManang/Upper-Mustang-Trek-Nepal.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/MustangManang/manang.jpg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/MustangManang/mustang_31566978182098.png" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/MustangManang/Mustang-Nepal.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/MustangManang/mustang-wvp-adventure.jpeg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/MustangManang/Upper-Mustang-Trek-Nepal.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/MustangManang/Upper-Mustang-Trek-Nepal.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
   </div>
 
 
   <div class="city">
     <h2>Lakes</h2>
-    <img src="destination/Rara/rara-iw-adventure.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Rara/Rara-Lake.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Dolpo/phoksundo-lake-trek.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Everest/Sagarmatha National Park/gokyo.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="destination/Pokhara/pokhara1.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Rara/rara-iw-adventure.jpeg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Rara/Rara-Lake.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Dolpo/phoksundo-lake-trek.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Everest/Sagarmatha National Park/gokyo.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/destination/Pokhara/pokhara1.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
   </div>
 
   <div class="city">
     <h2>Foods</h2>
-    <img src="food/chilly_chicken.jpg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="food/choila.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="food/choila2.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="food/chuira_masu.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="food/fried_chicken.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="food/jhol_momo.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="food/laphing.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="food/momo.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="food/thakali_khana.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
-    <img src="food/sausage.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/food/chilly_chicken.jpg" style="width:30%; height:38%; margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/food/choila.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/food/choila2.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/food/chuira_masu.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/food/fried_chicken.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/food/jhol_momo.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/food/laphing.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/food/momo.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/food/thakali_khana.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
+    <img src="public/img/food/sausage.jpg" style="width:30%; height:38%;margin:8px;" onclick="onClick(this)" class="w3-hover-opacity">
   </div>
 
 
@@ -154,7 +154,7 @@
   </div>
       <div class="footer-section 2">
          <center>
-         <img src="me.jpg">
+         <img src="public/img/sahil.jpg">
          <h3>Sahil Mandal</h3>
          <a href="http://www.facebook.com/"><i class="fa fa-facebook"></i></a>
          <a href="http://www.instagram.com/"><i class="fa fa-instagram"></i></a>
@@ -162,7 +162,7 @@
        </div>
        <div class="footer-section 3">
          <center>
-         <img src="suddo.jpg">
+         <img src="public/img/bipin.jpg">
          <h3>Bipin Adhikari</h3>
          <a href="http://www.facebook.com/"><i class="fa fa-facebook"></i></a>
          <a href="http://www.instagram.com/"><i class="fa fa-instagram"></i></a>
@@ -170,7 +170,7 @@
        </div>
        <div class="footer-section 4">
          <center>
-         <img src="deepaak_kalal.jpg">
+         <img src="public/img/deepak.jpg">
          <h3>Deepak Gautam</h3>
          <a href="http://www.facebook.com/"><i class="fa fa-facebook"></i></a>
          <a href="http://www.instagram.com/"><i class="fa fa-instagram"></i></a>
@@ -193,7 +193,7 @@ function onClick(element) {
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-  <script src="js/wow.min.js"></script>
+  <script src="public/js/wow.min.js"></script>
 
 </body>
 </html>

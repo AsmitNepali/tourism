@@ -22,9 +22,9 @@
 
   <meta charset="utf-8">
   <title>nepalvisit</title>
-  <link rel="stylesheet" href="front_page1.css">
+  <link rel="stylesheet" href="public/css/front_page1.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="public/css/animate.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 </head>
@@ -46,7 +46,7 @@
     </nav>
       <div class="clear">
       <div class="second_tab">
-        <img class="flag_img" src="flag_of_nepal.png" alt="Check your connection">
+        <img class="flag_img" src="public/img/flag_of_nepal.png" alt="Check your connection">
         <p class="typewriter" style="margin-top:300px;">EXPERIENCE OF A LIFETIME!!!</P>
       </div>
     </div>
@@ -72,14 +72,14 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block" src="photo/pokhara2.jpg" alt="First slide" height=600px width= 1500px>
+      <img class="d-block" src="public/img/photo/pokhara2.jpg" alt="First slide" height=600px width= 1500px>
       <div class="carousel-caption d-none d-md-block">
       <h5 class="text">POKHARA</h5>
       <blockquote class="small_text">City of lakes</blockquote>
     </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block" src="photo/kathmandu1.jpg" alt="Second slide" height=600px width= 1500px>
+      <img class="d-block" src="public/img/photo/kathmandu1.jpg" alt="Second slide" height=600px width= 1500px>
       <div class="carousel-caption d-none d-md-block">
       <h5 class="text">Kathmandu</h5>
       <blockquote class="small_text">City of temples</blockquote>
@@ -87,7 +87,7 @@
   </div>
 
     <div class="carousel-item">
-      <img class="d-block" src="photo/chitwan4.jpg" alt="Third slide" height=600px width= 1500px>
+      <img class="d-block" src="public/img/photo/chitwan4.jpg" alt="Third slide" height=600px width= 1500px>
       <div class="carousel-caption d-none d-md-block">
       <h5 class="text">Chitwan</h5>
       <blockquote class="small_text"></blockquote>
@@ -95,7 +95,7 @@
     </div>
 
       <div class="carousel-item">
-        <img class="d-block" src="photo/Mount-Everest2.jpg" alt="Forth slide" height=600px width= 1500px>
+        <img class="d-block" src="public/img/photo/Mount-Everest2.jpg" alt="Forth slide" height=600px width= 1500px>
         <div class="carousel-caption d-none d-md-block">
         <h5 class="text">Mount Everest</h5>
         <blockquote class="small_text">World's tallest peak</blockquote>
@@ -103,7 +103,7 @@
   </div>
 
     <div class="carousel-item">
-      <img class="d-block" src="photo/manang.jpg" alt="Fifth slide" height=600px width= 1500px>
+      <img class="d-block" src="public/img/photo/manang.jpg" alt="Fifth slide" height=600px width= 1500px>
       <div class="carousel-caption d-none d-md-block">
       <h5 class="text">Mustang</h5>
       <blockquote class="small_text">Desert of Nepal</blockquote>
@@ -111,7 +111,7 @@
   </div>
 
   <div class="carousel-item">
-    <img class="d-block" src="photo/bungy-jumping.jpg" alt="Sixth slide" height=600px width= 1500px>
+    <img class="d-block" src="public/img/photo/bungy-jumping.jpg" alt="Sixth slide" height=600px width= 1500px>
     <div class="carousel-caption d-none d-md-block">
     <h5 class="text">Bungee Jumping</h5>
     <blockquote class="small_text"></blockquote>
@@ -119,7 +119,7 @@
   </div>
 
   <div class="carousel-item">
-    <img class="d-block" src="photo/rafting.jpg" alt="Seventh slide" height=600px width= 1500px>
+    <img class="d-block" src="public/img/photo/rafting.jpg" alt="Seventh slide" height=600px width= 1500px>
     <div class="carousel-caption d-none d-md-block">
     <h5 class="text">Rafting</h5>
     <blockquote class="small_text"></blockquote>
@@ -127,7 +127,7 @@
   </div>
 
   <div class="carousel-item">
-    <img class="d-block" src="photo/illam.jpg" alt="Eighth slide" height=600px width= 1500px>
+    <img class="d-block" src="public/img/photo/illam.jpg" alt="Eighth slide" height=600px width= 1500px>
     <div class="carousel-caption d-none d-md-block">
     <h5 class="text">Illam</h5>
     <blockquote class="small_text">Tea Garden of Nepal</blockquote>
@@ -135,7 +135,7 @@
   </div>
 
   <div class="carousel-item">
-    <img class="d-block" src="photo/langtang.jpg" alt="Ninth slide" height=600px width= 1500px>
+    <img class="d-block" src="public/img/photo/langtang.jpg" alt="Ninth slide" height=600px width= 1500px>
     <div class="carousel-caption d-none d-md-block">
     <h5 class="text">Langtang</h5>
     <blockquote class="small_text">A narrow Sandwitched Valley</blockquote>
@@ -143,7 +143,7 @@
   </div>
 
   <div class="carousel-item">
-    <img class="d-block" src="photo/lumbini.jpg" alt="Tenth slide" height=600px width= 1500px>
+    <img class="d-block" src="public/img/photo/lumbini.jpg" alt="Tenth slide" height=600px width= 1500px>
     <div class="carousel-caption d-none d-md-block">
     <h5 class="text">Lumbini</h5>
     <blockquote class="small_text">Birthplace of Lord Buddha</blockquote>
@@ -151,7 +151,7 @@
   </div>
 
   <div class="carousel-item">
-    <img class="d-block" src="photo/annapurna-circuit-trek.jpg" alt="Eleven slide" height=600px width= 1500px>
+    <img class="d-block" src="public/img/photo/annapurna-circuit-trek.jpg" alt="Eleven slide" height=600px width= 1500px>
     <div class="carousel-caption d-none d-md-block">
     <h5 class="text">Annapurna</h5>
   </div>
@@ -191,7 +191,7 @@
   </div>
       <div class="footer-section 2">
          <center>
-         <img src="me.jpg">
+         <img src="public/img/sahil.jpg">
          <h3>Sahil Mandal</h3>
          <a href="http://www.facebook.com/"><i class="fa fa-facebook"></i></a>
          <a href="http://www.instagram.com/"><i class="fa fa-instagram"></i></a>
@@ -199,7 +199,7 @@
        </div>
        <div class="footer-section 3">
          <center>
-         <img src="suddo.jpg">
+         <img src="public/img/bipin.jpg">
          <h3>Bipin Adhikari</h3>
          <a href="http://www.facebook.com/"><i class="fa fa-facebook"></i></a>
          <a href="http://www.instagram.com/"><i class="fa fa-instagram"></i></a>
@@ -207,7 +207,7 @@
        </div>
        <div class="footer-section 4">
          <center>
-         <img src="deepaak_kalal.jpg">
+         <img src="public/img/deepak.jpg">
          <h3>Deepak Gautam</h3>
          <a href="http://www.facebook.com/"><i class="fa fa-facebook"></i></a>
          <a href="http://www.instagram.com/"><i class="fa fa-instagram"></i></a>
@@ -244,7 +244,7 @@ anime.timeline({loop: true})
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-<script src="js/wow.min.js"></script>
+<script src="public/js/wow.min.js"></script>
 <script>
     new WOW().init();
 </script>
