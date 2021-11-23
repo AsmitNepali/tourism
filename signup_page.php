@@ -45,7 +45,7 @@
       $error .="Country is required<br>";
     }
 
-		if(!$_POST["password"]) {
+		if(!$_POST["password"]) { 
 			$error .="A password is required<br>";
 		}
 

@@ -55,25 +55,25 @@
   <div class="container">
     <div class="kathmandu">
         <h1 style="text-align:center">KATHMANDU</h1>
-        <img src="public/img/destination/Kathmandu_valley/kathmandu1.jpg" alt="kathmandu" style="width:100%; height:70%;">
+        <img src="public/img/destination/kathmandu_valley/kathmandu1.jpg" alt="kathmandu" style="width:100%; height:70%;">
         <h3>Kathmandu, the capital of Nepal is a melting pot of cultures and a rich mix of the east and west, the old and the new, where tradition jostles with modernity.</h3>
 
         <div class="ktm_valley">
-          <img src="public/img/destination/Kathmandu_valley/tihar_kathmandu.jpg" alt="Kathamndu valley" class="image">
+          <img src="public/img/destination/kathmandu_valley/tihar_kathmandu.jpg" alt="Kathamndu valley" class="image">
           <div class="overlay">
             <div class="text">Founded in a vast valley after draining a larges....<a href="">read more</a></div>
           </div>
       </div>
 
           <div class="ktm_valley">
-            <img src="public/img/destination/Kathmandu_valley/bhaktapur.jpeg" alt="Bhaktapur" class="image" >
+            <img src="public/img/destination/kathmandu_valley/bhaktapur.jpeg" alt="Bhaktapur" class="image" >
             <div class="overlay">
               <div class="text">Among the three major cities of Kathmandu Valley....<a href="">read more</a></div>
             </div>
         </div>
 
         <div class="ktm_valley">
-          <img src="public/img/destination/Kathmandu_valley/patan.jpeg" alt="Patan" class="image" >
+          <img src="public/img/destination/kathmandu_valley/patan.jpeg" alt="Patan" class="image" >
           <div class="overlay">
             <div class="text">Patan is 5 km away from the capital city, Kathmandu, and is....<a href="">read more</a></div>
           </div>
