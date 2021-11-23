@@ -34,9 +34,9 @@
     <nav>
       <div class="first_tab">
         <ul>
-          <li><a  href="front_page.php">Home</a></li>
+          <li><a  href="index.php">Home</a></li>
           <li><a  href="destination.php">Destination</a></li>
-          <li><a  href="adventure_sport.php">Adventure Sports</a></li>
+          <li><a  href="adventure.php">Adventure Sports</a></li>
           <li><a  href="festival.php">Festivals</a></li>
           <li><a  href="gallery.php">Gallery</a></li>
           <li><a  href="faq.php">FAQ</a></li>
